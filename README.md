@@ -20,3 +20,4 @@ https://github.com/ZiganshinaAlsu/mobile/blob/main/G10-Test%2Brun%2B2025_07_12.p
 
 Отчет
 
+https://github.com/ZiganshinaAlsu/mobile/blob/main/Test_Summary_Report_.docx
